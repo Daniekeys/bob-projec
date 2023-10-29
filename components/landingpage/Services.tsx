@@ -41,7 +41,7 @@ const features = [
 
 export default function Services() {
   return (
-    <div className="py-12 bg-white">
+    <div className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h2 className="text-base text-[#38b000] font-semibold tracking-wide uppercase">
