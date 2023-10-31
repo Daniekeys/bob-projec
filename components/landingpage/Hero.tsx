@@ -42,7 +42,7 @@ export default function Hero() {
     if (current < 6) {
       setTimeout(() => {
         setCurrent(current + 1);
-      }, 5000);
+      }, 10000);
     }
     else setCurrent(0);
   }, [current])
