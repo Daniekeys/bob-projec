@@ -3,7 +3,9 @@ import {
   GlobeAltIcon,
   LightningBoltIcon,
   ScaleIcon,
-} from "@heroicons/react/outline";
+  ClockIcon,HeartIcon
+} from "@heroicons/react/outline"; 
+
 
 const features = [
   {
@@ -28,13 +30,13 @@ const features = [
     name: "Timely Delivery",
     description:
       "We understand the importance of deadlines. Our efficient project management ensures timely completion of projects",
-    icon: LightningBoltIcon,
+    icon: ClockIcon,
   },
   {
     name: "Customer-Centric Approach",
     description:
       "Client satisfaction is our priority. We actively engage with clients, understanding their requirements and exceeding their expectations",
-    icon: LightningBoltIcon,
+    icon: HeartIcon,
   },
 ];
 

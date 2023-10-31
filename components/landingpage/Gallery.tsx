@@ -5,19 +5,20 @@ import photoD from "../../assets/png/mach-1.jpg";
 import fhouse from "../../assets/png/2514_Farm house.jpg"
 import coldRoom from "../../assets/png/2514_Cold room.jpg"
 import Image from "next/image";
+import mat from "../../assets/png/mats.jpg"
 
 const people = [
   {
-    name: "House Building",
+    name: "House Construction",
     role: "Constructions",
     image: photoA,
     twitterUrl: "#",
     linkedinUrl: "#",
   },
   {
-    name: "House Building",
-    role: "Constructions",
-    image: photoB,
+    name: " Building Materials Supply",
+    role: "Materials",
+    image: mat,
     twitterUrl: "#",
     linkedinUrl: "#",
   },
@@ -83,7 +84,7 @@ export default function Gallery() {
                   <div className="space-y-2">
                     <div className="text-lg leading-6 font-medium space-y-1">
                       <h3>{person.name}</h3>
-                      <p className="text-indigo-600">{person.role}</p>
+                      {/* <p className="text-indigo-600">{person.role}</p> */}
                     </div>
                   </div>
                 </div>

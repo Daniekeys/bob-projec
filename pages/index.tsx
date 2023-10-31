@@ -8,6 +8,7 @@ import WhyChoose from "../components/landingpage/WhyChoose";
 import Contact from "../components/landingpage/Contact";
 import Gallery from "../components/landingpage/Gallery";
 import Faq from "../components/landingpage/Faq";
+import About from "../components/landingpage/About";
 
 
 
@@ -32,8 +33,10 @@ export default function Home() {
         <Hero />
         <Services />
         <WhyChoose />
+        
         <Gallery />
         <Faq />
+        <About />
         <Contact />
 
         <Footer />
