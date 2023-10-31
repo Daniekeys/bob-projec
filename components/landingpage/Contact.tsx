@@ -1,7 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 export default function Contact() {
   return (
-    <div className="bg-white">
+    <div className="bg-white" id="contact">
       <div className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-24 lg:px-8">
         <div className="divide-y-2 divide-gray-200">
           <div className="lg:grid lg:grid-cols-3 lg:gap-8">

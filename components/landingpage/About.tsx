@@ -5,7 +5,7 @@ import left from "../../assets/png/girl.png";
 import { ArrowRight } from "../../assets/svg";
 const About = () => {
   return (
-    <div className="w-full flex flex-col mt-20 pb-10">
+    <div className="w-full flex flex-col mt-20 pb-10" id="about">
       <ContainerLayout>
         <div className="w-full flex flex-col lg:space-x-8 lg:flex-row  lg:justify-between">
           <div className="w-full lg:w-3/12">

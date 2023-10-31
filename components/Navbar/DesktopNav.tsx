@@ -48,7 +48,7 @@ const Navbar = () => {
               className={current === 6 ? styles?.active : styles.inactive}
               onClick={() => {
                 setCurrent(6);
-                router.push("/");
+                router.push("/#service");
               }}
             >
               Services
@@ -56,7 +56,7 @@ const Navbar = () => {
             {/* end of a side */}
           </div>
           <div className="w-2/12">
-            <button className="bg-[#38b000] text-white flex items-center justify-center cursor-pointer py-[12px] px-[50px] font-bold text-lg text-mont rounded-[24px] h-[54px]">
+            <button className="bg-[#38b000] text-white flex items-center justify-center cursor-pointer py-[12px] px-[50px] font-bold text-lg text-mont rounded-[24px] h-[54px]" onClick={() =>  router.push("/#contact")}>
               Contact Us
             </button>
           </div>
