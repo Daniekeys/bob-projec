@@ -4,45 +4,35 @@ import { ChevronDownIcon } from "@heroicons/react/outline";
 
 const faqs = [
   {
-    question: "What's the best thing about Switzerland?",
+    question:
+      "What types of construction services does 2514 KB Eleos Resources Ltd provide?",
     answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      "2514 KB Eleos Resources Ltd specializes in a wide range of construction services, including but not limited to residential, commercial, industrial, and infrastructure projects. Our expertise encompasses everything from building new structures to renovation and restoration..",
   },
   {
-    question: "What's the best thing about Switzerland?",
+    question:
+      "Can you tell me more about your offerings in the agriculture sector?",
     answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      "In the agriculture sector, we offer comprehensive services covering various aspects such as farm planning, land development, irrigation systems, crop management, and more. Our team leverages cutting-edge techniques and technology to optimize agricultural processes and enhance yields..",
   },
   {
-    question: "What's the best thing about Switzerland?",
+    question:
+      "What sets 2514 KB Eleos Resources Ltd apart from other providers in the industry?",
     answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      "We distinguish ourselves through our unwavering commitment to quality, a culture of innovation, and a relentless focus on customer satisfaction. Our track record of successful projects and a team of experienced professionals ensure that we deliver results that surpass expectations.",
   },
   {
-    question: "What's the best thing about Switzerland?",
+    question: "How do you ensure the safety of your construction sites?",
     answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      "Safety is our top priority. We strictly adhere to industry-standard safety protocols and guidelines. Our team undergoes rigorous training, and we implement robust safety measures on all our sites. Additionally, we conduct regular safety audits and inspections to maintain a secure working environment.",
   },
   {
-    question: "What's the best thing about Switzerland?",
+    question:
+      "How can I get in touch with 2514 KB Eleos Resources Ltd for potential projects or collaborations?",
     answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+      "We'd be delighted to discuss potential projects or collaborations. You can reach out to us through our 'Contact Us' page on our website. Alternatively, you can email us at Info@2514kbeleos.com or give us a call at +2348064907028. Our dedicated team will promptly respond to your inquiries and assist you in any way we can.",
   },
-  {
-    question: "What's the best thing about Switzerland?",
-    answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-  },
-  {
-    question: "What's the best thing about Switzerland?",
-    answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-  },
-  {
-    question: "What's the best thing about Switzerland?",
-    answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
-  },
+
   // More questions...
 ];
 
