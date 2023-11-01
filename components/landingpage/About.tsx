@@ -1,6 +1,6 @@
 import ContainerLayout from "../../Layouts/ContainerLayout"
 import Image from "next/image"
-import left from "../../assets/png/girl.png";
+import left from "../../assets/png/photo.jpeg";
 
 import { ArrowRight } from "../../assets/svg";
 const About = () => {
