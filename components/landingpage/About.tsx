@@ -9,7 +9,7 @@ const About = () => {
       <ContainerLayout>
         <div className="w-full flex flex-col lg:space-x-8 lg:flex-row  lg:justify-between">
           <div className="w-full lg:w-3/12">
-            <Image src={left} alt="left" />
+            <Image src={left} alt="  Ayodele Babatunde Photo" />
           </div>
           <div className="w-full lg:w-8/12 flex flex-col justify-center">
             <h1 className="text-2xl font-bold">About the CEO</h1>

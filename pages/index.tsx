@@ -20,7 +20,7 @@ export default function Home() {
         <title>2514 KB ELEOS</title>
         <meta
           name="description"
-          content="2514 KB ELEOS RESOURCES LTD specializes in providing a wide range of services in the construction and agriculture sectors. With a focus on quality, innovation, and customer satisfaction, we have established ourselves as a leading provider in the industry."
+          content="Ayodele Babatunde is the CEO and Founder of 2514 KB Eleos, a company focused on revolutionizing the construction industry. With a degree in Agricultural Engineering, he applies his engineering knowledge to various construction projects."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logolee.png" />
@@ -33,7 +33,7 @@ export default function Home() {
         <Hero />
         <Services />
         <WhyChoose />
-        
+
         <Gallery />
         <Faq />
         <About />

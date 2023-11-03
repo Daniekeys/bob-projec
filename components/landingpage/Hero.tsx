@@ -59,10 +59,21 @@ export default function Hero() {
               </span>
             </h1>
             <p className="mt-3 max-w-md mx-auto text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">
-              2514 KB ELEOS RESOURCES LTD specializes in providing a wide range
-              of services in the construction and agriculture sectors. With a
-              focus on quality, innovation, and customer satisfaction, we have
-              established ourselves as a leading provider in the industry.
+              Ayodele Babatunde is the CEO and Founder of 2514 KB Eleos, a
+              company focused on revolutionizing the construction industry. With
+              a degree in Agricultural Engineering, he applies his engineering
+              knowledge to various construction projects. Ayodele specializes in
+              Farm House Constructions, Farm Machinery Constructions and
+              Fabrication, and Cold Room Constructions. He is also passionate
+              about Residential Constructions, aiming to create functional and
+              aesthetically pleasing living spaces. His vision for 2514 KB Eleos
+              is to be a leading force in the construction industry, known for
+              innovative solutions and quality craftsmanship. Ayodele's mission
+              is to contribute significantly to both the agricultural and
+              residential landscape, blending technology, sustainability, and
+              creativity in his projects. With a dedicated team, Ayodele leads
+              2514 KB Eleos in transforming spaces and shaping the future
+              of construction.
             </p>
             <div className="mt-10 sm:flex sm:justify-center lg:justify-start">
               <div className="rounded-md shadow">
@@ -73,7 +84,6 @@ export default function Hero() {
                   Contact Us
                 </a>
               </div>
-          
             </div>
           </div>
         </div>
